@@ -1,0 +1,64 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_123A55E5_1FD0_3866_41B9_C97062DB1A48.label = GS__8773
+panorama_14D0097C_1FD0_E866_41BB_C12CAC40C9DB.label = GS__8774
+panorama_152CF1DE_1FD0_F8A2_419A_33FE5048046A.label = GS__8775
+panorama_152C6918_1FD0_E9AD_41B8_67C81A4856E6.label = GS__8776
+panorama_152C311F_1FD0_D9A2_41AF_41DB3897084B.label = GS__8777
+panorama_152C08A7_1FD0_28E2_41B9_4861F1750AC0.label = GS__8778
+panorama_152C1077_1FD0_3862_419D_CB668DD6A2BB.label = GS__8779
+panorama_152C6790_1FD0_38BE_41B2_340F5212C930.label = GS__8780
+panorama_152C1EDF_1FD0_28A2_41B1_74074266A77A.label = GS__8781
+panorama_152C16FE_1FD0_5862_41A8_1099350623EC.label = GS__8782
+panorama_152C6FFE_1FD0_6862_41AF_F5E5072A1A6C.label = GS__8783
+panorama_152C082E_1FD0_77E2_41B7_4851B6BE0033.label = GS__8784
+panorama_152C60B5_1FD0_58E6_41A2_C8BFA532FB14.label = GS__8785
+panorama_152C089A_1FD0_28A2_41B2_FC0E4342B7E9.label = GS__8786
+panorama_152C5F9E_1FD0_28A2_41B7_B260B116ADD2.label = GS__8787
+panorama_152DC730_1FD0_39FE_41B0_49AB31AB4488.label = GS__8788
+panorama_152DEFD8_1FD0_28AE_4184_CD71D3A965A8.label = GS__8789
+panorama_152CA776_1FD1_D862_41BD_9D71F4E553EB.label = GS__8790
+panorama_152DFEFF_1FD1_E862_41AF_E34E6AD4FDEB.label = GS__8791
+panorama_152C6716_1FD1_F9A2_41A5_D5BD3193B924.label = GS__8792
+panorama_152DEFAE_1FD1_E8E2_41BB_169F2845F247.label = GS__8793
+panorama_152C171A_1FD1_D9A2_41B4_A7A11D19F429.label = GS__8794
+panorama_152C3DF0_1FD0_287E_41B0_A11E5A0261D6.label = GS__8795
+panorama_152C65BC_1FD0_38E6_41BF_61B520190FAF.label = GS__8796
+panorama_152C0D5A_1FD0_29A2_41AB_B3E64AE0AACA.label = GS__8797
+panorama_152CD519_1FD0_59AF_41B6_8BF784A2F49F.label = GS__8798
+panorama_152C1C8A_1FD0_68A2_41BD_6C9BAC6DC3E6.label = GS__8799
+panorama_152CD434_1FD0_7FE6_41BD_09B968CAA892.label = GS__8800
+panorama_152C2BC6_1FD0_68A2_4191_37800B77ED71.label = GS__8801
+panorama_152CA30C_1FD0_59A5_41AC_DCDF3223789F.label = GS__8802
+panorama_152CCAAE_1FD0_28E2_418A_C4CF88A4D4C3.label = GS__8803
+panorama_152CA2E2_1FD0_3862_41A8_2E950421327E.label = GS__8804
+panorama_152CCA39_1FD0_2BEE_419C_F7FB609FD7DA.label = GS__8805
+panorama_152C624C_1FD0_DBA6_41BE_76F591D2B164.label = GS__8806
+panorama_152C4A1C_1FD0_EBA6_4199_E245F5EA1437.label = GS__8807
+panorama_152B8233_1FD0_FBE3_4166_3BC8E09C06AE.label = GS__8808
+panorama_152C498F_1FD0_E8A2_41BE_B6E12B3E399F.label = GS__8809
+panorama_152B11AD_1FD0_D8E6_41B6_7B2EF126C73E.label = GS__8810
+
+## Skin
+
+### Button
+Button_0E7968A6_1FD0_68E5_41B9_69845EB02CBB.label = PANORAMA LIST
+Button_0E7968A6_1FD0_68E5_41B9_69845EB02CBB_mobile.label = PANORAMA LIST
+
+### Image
+Image_0E78E8A6_1FD0_68E5_419F_2262B4DCBAB9.url = skin/Image_0E78E8A6_1FD0_68E5_419F_2262B4DCBAB9_en.png
+Image_0E78E8A6_1FD0_68E5_419F_2262B4DCBAB9_mobile.url = skin/Image_0E78E8A6_1FD0_68E5_419F_2262B4DCBAB9_mobile_en.png
+
+### Multiline Text
+HTMLText_0C42B6AF_1FD0_58E2_4183_D983A3315DEB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.909999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#b2d337;font-size:3.91vh;word-break:break-word;font-family:'AktivGrotesk-XBoldItalic';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_0C42B6AF_1FD0_58E2_4183_D983A3315DEB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.5135135135135123vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#b2d337;font-size:3.51vh;word-break:break-word;font-family:'Apex Mk2';"><B>PANORAMA</B></SPAN><SPAN STYLE="color:#b2d337;font-size:3.51vh;word-break:break-word;font-family:'AktivGrotesk-XBoldItalic';"><B> LIST/</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TUA di jalan
